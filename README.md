@@ -44,7 +44,7 @@ At second line we import **Filter.dwl** from **dw/com/ambassadorpatryk/utils** f
   - generateSecureAWSHeaders
   Method used to create Authorization header for AWS API Request. It is based on AWS documentation https://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html 
 
-### Package dw.com.ambassadorpatryk.com.aws
+### Package dw.com.ambassadorpatryk.com.utils
   - filterEmptyObjects
   Usage described at https://ambassadorpatryk.com/2018/08/dataweave-tip-6-empty-json-object/
  
