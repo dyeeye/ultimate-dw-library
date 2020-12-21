@@ -54,9 +54,9 @@
       </plugins>
     </pluginManagement>
   </build>
-  <description>Library improving writing transformations in DataWeave 1.0/2.0 by providing reusable set of functions divided into logical packages.</description>
+  <description>Library improving writing transformations in DataWeave 2.x by providing reusable set of functions divided into logical packages.</description>
   <organization>
-  	<name>Prof-IT</name>
-  	<url>http://profit-online.pl</url>
+  	<name>Ambassador Patryk Blog</name>
+  	<url>https://ambassadorpatryk.com</url>
   </organization>
 </project>
