@@ -41,12 +41,18 @@ At second line we import **Filter.dwl** from **dw/com/ambassadorpatryk/utils** f
 ## Functions
 
 ### Package dw.com.ambassadorpatryk.com.aws
-  - generateSecureAWSHeaders
-  Method used to create Authorization header for AWS API Request. It is based on AWS documentation https://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html 
+  - **Auth**
+    - **generateSecureAWSHeaders**
+        Method used to create Authorization header for AWS API Request. It is based on AWS documentation https://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html 
 
 ### Package dw.com.ambassadorpatryk.com.utils
-  - filterEmptyObjects
-  Usage described at https://ambassadorpatryk.com/2018/08/dataweave-tip-6-empty-json-object/
+  - **Arrays**
+    - **shuffle**
+        Randomly reorder the array.
+        Usage described at https://ambassadorpatryk.com/2021/01/how-to-shuffle-elements-in-the-dataweave-array/
+  - **Filter**
+    - **filterEmptyObjects**
+        Usage described at https://ambassadorpatryk.com/2018/08/dataweave-tip-6-empty-json-object/
  
 ## Contribute
 If you come across any issues, please create a new issue at GitHub, propose new feature, or feel free to contribute a pull request to enhance.
